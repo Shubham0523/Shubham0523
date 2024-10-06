@@ -1,11 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shubham Arora</h1>
-<h3 align="center">A freethinker who likes to build great side projects</h3>
+<h3 align="center">Build Fast Break Fast</h3>
 
 - 🌱 I’m currently learning **Typescript And Next.js**
-
-- 📫 How to reach me **shubhamarora2306@gmail.com**
-
-- 📄 My digital resume [https://www.linkedin.com/in/shubham-arora-01699a231/](https://www.linkedin.com/in/shubham-arora-01699a231/)
 
 - ⚡ Fun fact **ChatGPT reached 100 million users in just two months after its release in November 2022**
 
