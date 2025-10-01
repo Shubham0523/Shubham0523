@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shubham Arora</h1>
 <h3 align="center">Build Fast Break Fast</h3>
 
-- 🌱 I’m currently learning **Typescript And Next.js**
+- 🌱 I’m currently exploring **Agentic AI**
 
 - ⚡ Fun fact **ChatGPT reached 100 million users in just two months after its release in November 2022**
 
